@@ -1,0 +1,32 @@
+.main-layout {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.button-layout {
+    margin-bottom: 2em;
+}
+
+.footer {
+    text-align: center;
+}
+
+.price {
+    background-color: #8d4654;
+}
+
+.congratulations-text {
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+}
+
+.congratulations-text-smaller {
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+}
